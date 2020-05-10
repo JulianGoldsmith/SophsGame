@@ -318,46 +318,49 @@ MonoBehaviour:
   parallaxReferencePositions:
   - {x: 0, y: -0.75, z: 0}
   backgroundLayers:
-  - distance: 45.1
-    layerObject: {fileID: 335802567}
+  - layerObject: {fileID: 335802567}
+    distance: 45.1
     layerStartingPos: {x: 0, y: 0, z: 0}
-  - distance: 68
-    layerObject: {fileID: 354410641}
+  - layerObject: {fileID: 354410641}
+    distance: 68
     layerStartingPos: {x: 0, y: 0, z: 0}
-  - distance: 83.5
-    layerObject: {fileID: 1320804040}
+  - layerObject: {fileID: 1320804040}
+    distance: 83.5
     layerStartingPos: {x: 0, y: 0, z: 0}
-  - distance: 100
-    layerObject: {fileID: 861413918}
+  - layerObject: {fileID: 861413918}
+    distance: 100
     layerStartingPos: {x: 0, y: 0, z: 0}
-  - distance: 100
-    layerObject: {fileID: 695090614}
+  - layerObject: {fileID: 695090614}
+    distance: 100
     layerStartingPos: {x: 0, y: 0, z: 0}
-  - distance: 13.5
-    layerObject: {fileID: 1849479690}
+  - layerObject: {fileID: 1849479690}
+    distance: 13.5
     layerStartingPos: {x: 0, y: 0, z: 0}
-  - distance: 26.2
-    layerObject: {fileID: 868126323}
+  - layerObject: {fileID: 868126323}
+    distance: 26.2
     layerStartingPos: {x: 0, y: 0, z: 0}
-  - distance: 41.6
-    layerObject: {fileID: 995191679}
+  - layerObject: {fileID: 995191679}
+    distance: 41.6
     layerStartingPos: {x: 0, y: 0, z: 0}
-  - distance: 32.3
-    layerObject: {fileID: 533553442}
+  - layerObject: {fileID: 533553442}
+    distance: 32.3
     layerStartingPos: {x: 0, y: 0, z: 0}
   parallaxClouds:
-  - distance: 22
-    layerObject: {fileID: 621364178}
-    speed: 2
+  - layerObject: {fileID: 621364178}
+    distance: 22
+    speed: 0.6
     layerStartingPos: {x: 0, y: 0, z: 0}
-  - distance: 29.8
-    layerObject: {fileID: 158644918}
-    speed: -3
+    offset: 0
+  - layerObject: {fileID: 158644918}
+    distance: 29.8
+    speed: -0.72
     layerStartingPos: {x: 0, y: 0, z: 0}
-  - distance: 27.3
-    layerObject: {fileID: 1909266251}
-    speed: 2
+    offset: 0
+  - layerObject: {fileID: 1909266251}
+    distance: 27.3
+    speed: 0.39
     layerStartingPos: {x: 0, y: 0, z: 0}
+    offset: 0
   movingPlatfomrs: []
   positionTriggers: []
   parallaxRefPos: 0

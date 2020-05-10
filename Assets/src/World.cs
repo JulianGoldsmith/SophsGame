@@ -13,7 +13,7 @@ public class World : MonoBehaviour
     public List<BackgroundLayer> backgroundLayers = new List<BackgroundLayer>();
     public List<ParallaxCloud> parallaxClouds = new List<ParallaxCloud>();
 
-    [Header("Background Setup")]
+    [Header("Platforms Setup")]
     public List<MovingPlatform> movingPlatfomrs = new List<MovingPlatform>();
     [HideInInspector]
     public WorldConstrints worldConstraints;
@@ -59,11 +59,6 @@ public class World : MonoBehaviour
     {
         foreach (BackgroundLayer layer in backgroundLayers)
         {
-            /*float parallexX = (cameraPrevPos.x - cam.transform.position.x) * -layer.distance / 100f;
-            float parallexY = (cameraPrevPos.y - cam.transform.position.y) * -layer.distance / 100f;
-            Vector3 targetPos = new Vector3(layer.layerObject.transform.position.x + parallexX, layer.layerObject.transform.position.y + parallexY, layer.layerObject.transform.position.z);
-            layer.layerObject.transform.position = targetPos;//Vector3.Lerp(layer.layerObject.transform.position, targetPos, parallaxSmoothing * Time.deltaTime);
-            */
             float parallexX = (parallaxReferencePositions[parallaxRefPos].x - cam.transform.position.x) * -layer.distance / 100f;
             float parallexY = (parallaxReferencePositions[parallaxRefPos].y - cam.transform.position.y) * -layer.distance / 100f;
             Vector3 targetPos = new Vector3(layer.layerStartingPos.x + parallexX, layer.layerStartingPos.y + parallexY, layer.layerObject.transform.position.z);
@@ -71,21 +66,20 @@ public class World : MonoBehaviour
         }
         foreach (ParallaxCloud cloud in parallaxClouds)
         {
-            float parallexX = (cameraPrevPos.x - cam.transform.position.x) * -cloud.distance / 100f;
-            float parallexY = (cameraPrevPos.y - cam.transform.position.y) * -cloud.distance / 100f;
-            Vector3 targetPos = new Vector3(cloud.layerObject.transform.position.x + parallexX, cloud.layerObject.transform.position.y + parallexY, cloud.layerObject.transform.position.z);
-            cloud.layerObject.transform.position = targetPos;//Vector3.Lerp(layer.layerObject.transform.position, targetPos, parallaxSmoothing * Time.deltaTime);
-            cloud.layerObject.transform.position += Vector3.right * cloud.speed * Time.deltaTime * 0.1f;
+            float parallexX = (parallaxReferencePositions[parallaxRefPos].x - cam.transform.position.x) * -cloud.distance / 100f;
+            float parallexY = (parallaxReferencePositions[parallaxRefPos].y - cam.transform.position.y) * -cloud.distance / 100f;
 
-            if (cloud.layerObject.transform.position.x > cam.position.x + (Camera.main.orthographicSize * Camera.main.aspect + 10))
+            cloud.offset += cloud.speed * Time.fixedDeltaTime;
+            Vector3 targetPos = new Vector3(cloud.layerStartingPos.x + parallexX + cloud.offset, cloud.layerStartingPos.y + parallexY, cloud.layerObject.transform.position.z);
+            cloud.layerObject.transform.position = targetPos;
+            Camera camera = cam.GetComponent<Camera>();
+            if (cloud.speed > 0 && cloud.layerObject.transform.position.x > worldConstraints.maxX + (camera.orthographicSize * camera.aspect) * 2)
             {
-                cloud.layerObject.transform.position = new Vector3(cam.position.x - (Camera.main.orthographicSize * Camera.main.aspect + 3),
-                            cloud.layerObject.transform.position.y, cloud.layerObject.transform.position.z);
+                cloud.offset = ((worldConstraints.minX - (camera.orthographicSize * camera.aspect) * 2) - cloud.layerStartingPos.x);
             }
-            if (cloud.layerObject.transform.position.x < cam.position.x - (Camera.main.orthographicSize * Camera.main.aspect + 10))
+            if (cloud.speed < 0 && cloud.layerObject.transform.position.x < worldConstraints.minX - (camera.orthographicSize * camera.aspect) * 2)
             {
-                cloud.layerObject.transform.position = new Vector3(cam.position.x + (Camera.main.orthographicSize * Camera.main.aspect + 3),
-                            cloud.layerObject.transform.position.y, cloud.layerObject.transform.position.z);
+                cloud.offset = ((worldConstraints.maxX + (camera.orthographicSize * camera.aspect) * 2) - cloud.layerStartingPos.x);
             }
         }
         cameraPrevPos = cam.position;
@@ -96,6 +90,10 @@ public class World : MonoBehaviour
         for (int i = 0; i < backgroundLayers.Count; i++)
         {
             backgroundLayers[i].layerStartingPos = backgroundLayers[i].layerObject.transform.position;
+        }
+        for (int i = 0; i < parallaxClouds.Count; i++)
+        {
+            parallaxClouds[i].layerStartingPos = parallaxClouds[i].layerObject.transform.position;
         }
     }
 
@@ -172,21 +170,25 @@ public class World : MonoBehaviour
 [System.Serializable]
 public class BackgroundLayer
 {
+    public GameObject layerObject;
     [Range(0, 100)]
     public float distance;
-    public GameObject layerObject;
+    [HideInInspector]
     public Vector3 layerStartingPos;
 }
 
 [System.Serializable]
 public class ParallaxCloud
 {
+    public GameObject layerObject;
     [Range(0, 100)]
     public float distance;
-    public GameObject layerObject;
+    [Range(-1, 1)]
     public float speed;
     [HideInInspector]
     public Vector3 layerStartingPos;
+    [HideInInspector]
+    public float offset;
 }
 
 public struct WorldConstrints
