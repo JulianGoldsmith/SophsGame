@@ -1,0 +1,632 @@
+fileFormatVersion: 2
+guid: 5380e91a0da5549e6a0d0d0cd531b78f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -166345856463254426
+    second: realfinal.psd Sheet_0
+  - first:
+      213: 8925563831979402881
+    second: realfinal.psd Sheet_1
+  - first:
+      213: -319164723876455612
+    second: realfinal.psd Sheet_2
+  - first:
+      213: -4823235061758072980
+    second: realfinal.psd Sheet_3
+  - first:
+      213: 3362156115144696634
+    second: realfinal.psd Sheet_4
+  - first:
+      213: 6453069195430972338
+    second: realfinal.psd Sheet_5
+  - first:
+      213: -492417658247985277
+    second: realfinal.psd Sheet_6
+  - first:
+      213: -5533518144964024391
+    second: realfinal.psd Sheet_7
+  - first:
+      213: 38699594088559856
+    second: realfinal.psd Sheet_8
+  - first:
+      213: -2043074373394527758
+    second: realfinal.psd Sheet_9
+  - first:
+      213: -3795279159513501129
+    second: realfinal.psd Sheet_10
+  - first:
+      213: -7831478330382097772
+    second: realfinal.psd Sheet_11
+  - first:
+      213: 6286147007813163436
+    second: realfinal.psd Sheet_12
+  - first:
+      213: 9071444571808548277
+    second: realfinal.psd Sheet_13
+  - first:
+      213: 5473645064647423393
+    second: realfinal.psd Sheet_14
+  - first:
+      213: -6452574855937392991
+    second: realfinal.psd Sheet_15
+  - first:
+      213: -6661819307852036813
+    second: realfinal.psd Sheet_16
+  - first:
+      213: 1629705252352870679
+    second: realfinal.psd Sheet_17
+  - first:
+      213: 6557606245544560728
+    second: realfinal.psd Sheet_18
+  - first:
+      213: -9016330709779393530
+    second: realfinal.psd Sheet_19
+  - first:
+      213: -7835598724594660350
+    second: realfinal.psd Sheet_20
+  - first:
+      213: -1139292983290426560
+    second: realfinal.psd Sheet_21
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 4
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 4
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: realfinal.psd Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3371
+        width: 496
+        height: 725
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66c46ab235501bdf0800000000000000
+      internalID: -166345856463254426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: realfinal.psd Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 3371
+        width: 496
+        height: 725
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 186e439f309fddb70800000000000000
+      internalID: 8925563831979402881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: realfinal.psd Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 3371
+        width: 496
+        height: 725
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44b1288ef59129bf0800000000000000
+      internalID: -319164723876455612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: realfinal.psd Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 1488
+        y: 3371
+        width: 496
+        height: 725
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6763b3144d601db0800000000000000
+      internalID: -4823235061758072980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: realfinal.psd Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 1984
+        y: 3371
+        width: 496
+        height: 725
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a336b9a5c27c8ae20800000000000000
+      internalID: 3362156115144696634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: realfinal.psd Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 2480
+        y: 3371
+        width: 496
+        height: 725
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bbcda05e38ed8950800000000000000
+      internalID: 6453069195430972338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: realfinal.psd Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 2976
+        y: 3371
+        width: 496
+        height: 725
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 387cffeafb49a29f0800000000000000
+      internalID: -492417658247985277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: realfinal.psd Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 3472
+        y: 3371
+        width: 496
+        height: 725
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b7ad33a09ef433b0800000000000000
+      internalID: -5533518144964024391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: realfinal.psd Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2646
+        width: 496
+        height: 725
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f4b996631d798000800000000000000
+      internalID: 38699594088559856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: realfinal.psd Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 2646
+        width: 496
+        height: 725
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f98d1c9eaa85a3e0800000000000000
+      internalID: -2043074373394527758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: realfinal.psd Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 2646
+        width: 496
+        height: 725
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73231c176b5745bc0800000000000000
+      internalID: -3795279159513501129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: realfinal.psd Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 1488
+        y: 2646
+        width: 496
+        height: 725
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 492e76393fff05390800000000000000
+      internalID: -7831478330382097772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: realfinal.psd Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 1984
+        y: 2646
+        width: 496
+        height: 725
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca9969ee561ec3750800000000000000
+      internalID: 6286147007813163436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: realfinal.psd Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 2480
+        y: 2646
+        width: 496
+        height: 725
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b54b4686ce34ed70800000000000000
+      internalID: 9071444571808548277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: realfinal.psd Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 2976
+        y: 2646
+        width: 496
+        height: 725
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a531e88f2b46fb40800000000000000
+      internalID: 5473645064647423393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: realfinal.psd Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 3472
+        y: 2646
+        width: 496
+        height: 725
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1aefb311b59d376a0800000000000000
+      internalID: -6452574855937392991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: realfinal.psd Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1921
+        width: 496
+        height: 725
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33504a5a2a67c83a0800000000000000
+      internalID: -6661819307852036813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: realfinal.psd Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 1921
+        width: 496
+        height: 725
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 719c41fda40ed9610800000000000000
+      internalID: 1629705252352870679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: realfinal.psd Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 1921
+        width: 496
+        height: 725
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 858019af22c410b50800000000000000
+      internalID: 6557606245544560728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: realfinal.psd Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 1488
+        y: 1921
+        width: 496
+        height: 725
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60457227dfe8fd280800000000000000
+      internalID: -9016330709779393530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: realfinal.psd Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 1984
+        y: 1921
+        width: 496
+        height: 725
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20c080a897c524390800000000000000
+      internalID: -7835598724594660350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: realfinal.psd Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 2480
+        y: 1921
+        width: 496
+        height: 725
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04b01e3611b6030f0800000000000000
+      internalID: -1139292983290426560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

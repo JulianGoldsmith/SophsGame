@@ -1,0 +1,1208 @@
+fileFormatVersion: 2
+guid: cac0102ce79074116b968fffba713b4e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7309075110431563230
+    second: girljump copy sheet_0
+  - first:
+      213: 9076858641281074249
+    second: girljump copy sheet_1
+  - first:
+      213: 471736459648598865
+    second: girljump copy sheet_2
+  - first:
+      213: 2063634531469618183
+    second: girljump copy sheet_3
+  - first:
+      213: -117129930045863314
+    second: girljump copy sheet_4
+  - first:
+      213: 8552095888027911298
+    second: girljump copy sheet_5
+  - first:
+      213: 6661694078388909225
+    second: girljump copy sheet_6
+  - first:
+      213: 5505142051384715536
+    second: girljump copy sheet_7
+  - first:
+      213: 6704796657052906405
+    second: girljump copy sheet_8
+  - first:
+      213: 9067180024197821417
+    second: girljump copy sheet_9
+  - first:
+      213: 3666666302234221390
+    second: girljump copy sheet_10
+  - first:
+      213: -7548190783884370671
+    second: girljump copy sheet_11
+  - first:
+      213: 1624648577766178797
+    second: girljump copy sheet_12
+  - first:
+      213: 6238864876795933578
+    second: girljump copy sheet_13
+  - first:
+      213: -9059074001287462627
+    second: girljump copy sheet_14
+  - first:
+      213: -6204994876595040429
+    second: girljump copy sheet_15
+  - first:
+      213: -2222408053214523833
+    second: girljump copy sheet_16
+  - first:
+      213: -2732324819303758828
+    second: girljump copy sheet_17
+  - first:
+      213: 1958042884753194460
+    second: girljump copy sheet_18
+  - first:
+      213: 4606895715243688353
+    second: girljump copy sheet_19
+  - first:
+      213: 1485568300121912937
+    second: girljump copy sheet_20
+  - first:
+      213: 3104418909526909563
+    second: girljump copy sheet_21
+  - first:
+      213: 2971940877578843835
+    second: girljump copy sheet_22
+  - first:
+      213: 5685819352189440588
+    second: girljump copy sheet_23
+  - first:
+      213: 7738612979654428747
+    second: girljump copy sheet_24
+  - first:
+      213: 1762586260849689007
+    second: girljump copy sheet_25
+  - first:
+      213: 8175719445610987442
+    second: girljump copy sheet_26
+  - first:
+      213: 3564136300797253521
+    second: girljump copy sheet_27
+  - first:
+      213: 3020545891538797824
+    second: girljump copy sheet_28
+  - first:
+      213: 1648077224812725963
+    second: girljump copy sheet_29
+  - first:
+      213: 7386039502704433791
+    second: girljump copy sheet_30
+  - first:
+      213: 8837672373175686423
+    second: girljump copy sheet_31
+  - first:
+      213: 3230393214334070884
+    second: girljump copy sheet_32
+  - first:
+      213: -4730368472798838305
+    second: girljump copy sheet_33
+  - first:
+      213: -1140591779697361144
+    second: girljump copy sheet_34
+  - first:
+      213: -1789584065888176995
+    second: girljump copy sheet_35
+  - first:
+      213: -862408201948211188
+    second: girljump copy sheet_36
+  - first:
+      213: 7159046226716781626
+    second: girljump copy sheet_37
+  - first:
+      213: -2836178817223364060
+    second: girljump copy sheet_38
+  - first:
+      213: -4852060021590154324
+    second: girljump copy sheet_39
+  - first:
+      213: 8300368554008493112
+    second: girljump copy sheet_40
+  - first:
+      213: 1479401927870024556
+    second: girljump copy sheet_41
+  - first:
+      213: 867856211083582626
+    second: girljump copy sheet_42
+  - first:
+      213: -485672907367892511
+    second: girljump copy sheet_43
+  - first:
+      213: 4345340182599894136
+    second: girljump copy sheet_44
+  - first:
+      213: 8009706774339616131
+    second: girljump copy sheet_45
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: girljump copy sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3350
+        width: 385
+        height: 746
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edd1ce9761d0f6560800000000000000
+      internalID: 7309075110431563230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girljump copy sheet_1
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 3350
+        width: 385
+        height: 746
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9444efdc7da77fd70800000000000000
+      internalID: 9076858641281074249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girljump copy sheet_2
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 3350
+        width: 385
+        height: 746
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15384f88fc1fb8600800000000000000
+      internalID: 471736459648598865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girljump copy sheet_3
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 3350
+        width: 385
+        height: 746
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70ce97a3ca083ac10800000000000000
+      internalID: 2063634531469618183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girljump copy sheet_4
+      rect:
+        serializedVersion: 2
+        x: 1540
+        y: 3350
+        width: 385
+        height: 746
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6acc0ff2fedf5ef0800000000000000
+      internalID: -117129930045863314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girljump copy sheet_5
+      rect:
+        serializedVersion: 2
+        x: 1925
+        y: 3350
+        width: 385
+        height: 746
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2848bf236e52fa670800000000000000
+      internalID: 8552095888027911298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girljump copy sheet_6
+      rect:
+        serializedVersion: 2
+        x: 2310
+        y: 3350
+        width: 385
+        height: 746
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a4b1b81877137c50800000000000000
+      internalID: 6661694078388909225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girljump copy sheet_7
+      rect:
+        serializedVersion: 2
+        x: 2695
+        y: 3350
+        width: 385
+        height: 746
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 019e9da3781366c40800000000000000
+      internalID: 5505142051384715536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girljump copy sheet_8
+      rect:
+        serializedVersion: 2
+        x: 3080
+        y: 3350
+        width: 385
+        height: 746
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a37dda39093c0d50800000000000000
+      internalID: 6704796657052906405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girljump copy sheet_9
+      rect:
+        serializedVersion: 2
+        x: 3465
+        y: 3350
+        width: 385
+        height: 746
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e334d8213815dd70800000000000000
+      internalID: 9067180024197821417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girljump copy sheet_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2604
+        width: 385
+        height: 746
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4bd096339d92e230800000000000000
+      internalID: 3666666302234221390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girljump copy sheet_11
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 2604
+        width: 385
+        height: 746
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11dd1bd59707f3790800000000000000
+      internalID: -7548190783884370671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girljump copy sheet_12
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 2604
+        width: 385
+        height: 746
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: defb8921649eb8610800000000000000
+      internalID: 1624648577766178797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girljump copy sheet_13
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 2604
+        width: 385
+        height: 746
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a83351fec86e49650800000000000000
+      internalID: 6238864876795933578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girljump copy sheet_14
+      rect:
+        serializedVersion: 2
+        x: 1540
+        y: 2604
+        width: 385
+        height: 746
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d11c84f5134b74280800000000000000
+      internalID: -9059074001287462627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girljump copy sheet_15
+      rect:
+        serializedVersion: 2
+        x: 1925
+        y: 2604
+        width: 385
+        height: 746
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35f0f63090e63e9a0800000000000000
+      internalID: -6204994876595040429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girljump copy sheet_16
+      rect:
+        serializedVersion: 2
+        x: 2362
+        y: 1078
+        width: 385
+        height: 746
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74e4e2286ab6821e0800000000000000
+      internalID: -2222408053214523833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girljump copy sheet_17
+      rect:
+        serializedVersion: 2
+        x: 2695
+        y: 2604
+        width: 385
+        height: 746
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4148a66ad05d41ad0800000000000000
+      internalID: -2732324819303758828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girljump copy sheet_18
+      rect:
+        serializedVersion: 2
+        x: 3080
+        y: 2604
+        width: 385
+        height: 746
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cddf1b821ad5c2b10800000000000000
+      internalID: 1958042884753194460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girljump copy sheet_19
+      rect:
+        serializedVersion: 2
+        x: 3465
+        y: 2604
+        width: 385
+        height: 746
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a18e50ae3bfeef30800000000000000
+      internalID: 4606895715243688353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girljump copy sheet_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1858
+        width: 385
+        height: 746
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 966f8528f7ccd9410800000000000000
+      internalID: 1485568300121912937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girljump copy sheet_21
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 1950
+        width: 385
+        height: 654
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b726b50ec8c151b20800000000000000
+      internalID: 3104418909526909563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girljump copy sheet_22
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 1858
+        width: 385
+        height: 746
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb6bc8d6b747e3920800000000000000
+      internalID: 2971940877578843835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girljump copy sheet_23
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 1858
+        width: 385
+        height: 746
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c421b48739618ee40800000000000000
+      internalID: 5685819352189440588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girljump copy sheet_24
+      rect:
+        serializedVersion: 2
+        x: 1540
+        y: 1858
+        width: 385
+        height: 746
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b48878a0183156b60800000000000000
+      internalID: 7738612979654428747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girljump copy sheet_25
+      rect:
+        serializedVersion: 2
+        x: 1925
+        y: 1858
+        width: 385
+        height: 746
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa10eeb9dd6f57810800000000000000
+      internalID: 1762586260849689007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girljump copy sheet_26
+      rect:
+        serializedVersion: 2
+        x: 2310
+        y: 1858
+        width: 385
+        height: 746
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bf75ead48df57170800000000000000
+      internalID: 8175719445610987442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girljump copy sheet_27
+      rect:
+        serializedVersion: 2
+        x: 2695
+        y: 1858
+        width: 385
+        height: 746
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 197581cf41b567130800000000000000
+      internalID: 3564136300797253521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girljump copy sheet_28
+      rect:
+        serializedVersion: 2
+        x: 3080
+        y: 1858
+        width: 385
+        height: 746
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0058fec1c722be920800000000000000
+      internalID: 3020545891538797824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girljump copy sheet_29
+      rect:
+        serializedVersion: 2
+        x: 3465
+        y: 1858
+        width: 385
+        height: 746
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc6cf5b01852fd610800000000000000
+      internalID: 1648077224812725963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girljump copy sheet_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1112
+        width: 385
+        height: 746
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7a53b77bcb708660800000000000000
+      internalID: 7386039502704433791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girljump copy sheet_31
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 1112
+        width: 385
+        height: 746
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7159b6c0338b5aa70800000000000000
+      internalID: 8837672373175686423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girljump copy sheet_32
+      rect:
+        serializedVersion: 2
+        x: 1540
+        y: 1112
+        width: 385
+        height: 746
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 460f6395389a4dc20800000000000000
+      internalID: 3230393214334070884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girljump copy sheet_33
+      rect:
+        serializedVersion: 2
+        x: 1925
+        y: 1112
+        width: 385
+        height: 746
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd14e12cfea5a5eb0800000000000000
+      internalID: -4730368472798838305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girljump copy sheet_34
+      rect:
+        serializedVersion: 2
+        x: 2310
+        y: 1112
+        width: 385
+        height: 746
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80f7869c1ddcb20f0800000000000000
+      internalID: -1140591779697361144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girljump copy sheet_35
+      rect:
+        serializedVersion: 2
+        x: 2695
+        y: 1112
+        width: 385
+        height: 746
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d94390116ce1a27e0800000000000000
+      internalID: -1789584065888176995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girljump copy sheet_36
+      rect:
+        serializedVersion: 2
+        x: 3080
+        y: 1112
+        width: 385
+        height: 746
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c085e7f3f4c1804f0800000000000000
+      internalID: -862408201948211188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girljump copy sheet_37
+      rect:
+        serializedVersion: 2
+        x: 3465
+        y: 1112
+        width: 385
+        height: 746
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3ced0aec9a0a5360800000000000000
+      internalID: 7159046226716781626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girljump copy sheet_38
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 366
+        width: 385
+        height: 746
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 422f9e7746ed3a8d0800000000000000
+      internalID: -2836178817223364060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girljump copy sheet_39
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 366
+        width: 385
+        height: 746
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca3ae302e150aacb0800000000000000
+      internalID: -4852060021590154324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girljump copy sheet_40
+      rect:
+        serializedVersion: 2
+        x: 1540
+        y: 366
+        width: 385
+        height: 746
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83cbf7ef835d03370800000000000000
+      internalID: 8300368554008493112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girljump copy sheet_41
+      rect:
+        serializedVersion: 2
+        x: 1925
+        y: 366
+        width: 385
+        height: 746
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6b88b61734e78410800000000000000
+      internalID: 1479401927870024556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girljump copy sheet_42
+      rect:
+        serializedVersion: 2
+        x: 2310
+        y: 366
+        width: 385
+        height: 746
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2acd0c930ae3b0c00800000000000000
+      internalID: 867856211083582626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girljump copy sheet_43
+      rect:
+        serializedVersion: 2
+        x: 2695
+        y: 366
+        width: 385
+        height: 746
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e93e4f501b8249f0800000000000000
+      internalID: -485672907367892511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girljump copy sheet_44
+      rect:
+        serializedVersion: 2
+        x: 3080
+        y: 366
+        width: 385
+        height: 746
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 874091c9fdfbd4c30800000000000000
+      internalID: 4345340182599894136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girljump copy sheet_45
+      rect:
+        serializedVersion: 2
+        x: 3582
+        y: 366
+        width: 122
+        height: 746
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38d7d8fbfd1382f60800000000000000
+      internalID: 8009706774339616131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,776 @@
+fileFormatVersion: 2
+guid: a4dba3a5eb7f248fb85d9f6eeb9bbe49
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6065406535874478818
+    second: girljumpnew.psd Sheet_0
+  - first:
+      213: 8506505471242247288
+    second: girljumpnew.psd Sheet_1
+  - first:
+      213: -4292397893601587413
+    second: girljumpnew.psd Sheet_2
+  - first:
+      213: 1448700639436299718
+    second: girljumpnew.psd Sheet_3
+  - first:
+      213: 1758407250596502431
+    second: girljumpnew.psd Sheet_4
+  - first:
+      213: -4012067486813070559
+    second: girljumpnew.psd Sheet_5
+  - first:
+      213: 2883884512647807474
+    second: girljumpnew.psd Sheet_6
+  - first:
+      213: 5526780155684097185
+    second: girljumpnew.psd Sheet_7
+  - first:
+      213: 378455599933382759
+    second: girljumpnew.psd Sheet_8
+  - first:
+      213: 8326554788878054479
+    second: girljumpnew.psd Sheet_9
+  - first:
+      213: -7716222036216484957
+    second: girljumpnew.psd Sheet_10
+  - first:
+      213: 3987550652409944880
+    second: girljumpnew.psd Sheet_11
+  - first:
+      213: 8900310787925682278
+    second: girljumpnew.psd Sheet_12
+  - first:
+      213: -1280240205046351927
+    second: girljumpnew.psd Sheet_13
+  - first:
+      213: -2755381565511231192
+    second: girljumpnew.psd Sheet_14
+  - first:
+      213: -6634953170897295906
+    second: girljumpnew.psd Sheet_15
+  - first:
+      213: 901320646771448697
+    second: girljumpnew.psd Sheet_16
+  - first:
+      213: -3525920092061834232
+    second: girljumpnew.psd Sheet_17
+  - first:
+      213: -3693625521560895047
+    second: girljumpnew.psd Sheet_18
+  - first:
+      213: -7625575613143276866
+    second: girljumpnew.psd Sheet_19
+  - first:
+      213: -1926482557620668140
+    second: girljumpnew.psd Sheet_20
+  - first:
+      213: -6777169537389002454
+    second: girljumpnew.psd Sheet_21
+  - first:
+      213: 949316928325705197
+    second: girljumpnew.psd Sheet_22
+  - first:
+      213: 5196621386086559373
+    second: girljumpnew.psd Sheet_23
+  - first:
+      213: -4772744960621643608
+    second: girljumpnew.psd Sheet_24
+  - first:
+      213: 3070340945684297920
+    second: girljumpnew.psd Sheet_25
+  - first:
+      213: -120416455971059477
+    second: girljumpnew.psd Sheet_26
+  - first:
+      213: -6159990442744788785
+    second: girljumpnew.psd Sheet_27
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: girljumpnew.psd Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6804
+        width: 999
+        height: 1388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e28125cb17ac2450800000000000000
+      internalID: 6065406535874478818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girljumpnew.psd Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 6804
+        width: 999
+        height: 1388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87c9f4d18ad2d0670800000000000000
+      internalID: 8506505471242247288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girljumpnew.psd Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 1998
+        y: 6804
+        width: 999
+        height: 1388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2f0e3d9bd65e64c0800000000000000
+      internalID: -4292397893601587413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girljumpnew.psd Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 2997
+        y: 6804
+        width: 999
+        height: 1388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cd5b775e81da1410800000000000000
+      internalID: 1448700639436299718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girljumpnew.psd Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 3996
+        y: 6804
+        width: 999
+        height: 1388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9b9646f31e176810800000000000000
+      internalID: 1758407250596502431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girljumpnew.psd Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 4995
+        y: 6804
+        width: 999
+        height: 1388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12bdc99a0e54258c0800000000000000
+      internalID: -4012067486813070559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girljumpnew.psd Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 5994
+        y: 6804
+        width: 999
+        height: 1388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f18f9d4fad950820800000000000000
+      internalID: 2883884512647807474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girljumpnew.psd Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 6993
+        y: 6804
+        width: 999
+        height: 1388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ac8a3bf44113bc40800000000000000
+      internalID: 5526780155684097185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girljumpnew.psd Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5416
+        width: 999
+        height: 1388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 760694dec5b804500800000000000000
+      internalID: 378455599933382759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girljumpnew.psd Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 5416
+        width: 999
+        height: 1388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4477e9e67ddd8370800000000000000
+      internalID: 8326554788878054479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girljumpnew.psd Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 1998
+        y: 5416
+        width: 999
+        height: 1388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ab664bb0f87ae490800000000000000
+      internalID: -7716222036216484957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girljumpnew.psd Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 2997
+        y: 5416
+        width: 999
+        height: 1388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03b95c00130a65730800000000000000
+      internalID: 3987550652409944880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girljumpnew.psd Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 3996
+        y: 5416
+        width: 999
+        height: 1388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66823e87181448b70800000000000000
+      internalID: 8900310787925682278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girljumpnew.psd Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 4995
+        y: 5416
+        width: 999
+        height: 1388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c7f907015cab3ee0800000000000000
+      internalID: -1280240205046351927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girljumpnew.psd Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 5994
+        y: 5416
+        width: 999
+        height: 1388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8291b07901be2c9d0800000000000000
+      internalID: -2755381565511231192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girljumpnew.psd Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 6993
+        y: 5416
+        width: 999
+        height: 1388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed5a05b9e39ebe3a0800000000000000
+      internalID: -6634953170897295906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girljumpnew.psd Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4028
+        width: 999
+        height: 1388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97b99835a52228c00800000000000000
+      internalID: 901320646771448697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girljumpnew.psd Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 4028
+        width: 999
+        height: 1388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 804ed3e7b5a611fc0800000000000000
+      internalID: -3525920092061834232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girljumpnew.psd Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 1998
+        y: 4028
+        width: 999
+        height: 1388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b1cb06682b9dbcc0800000000000000
+      internalID: -3693625521560895047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girljumpnew.psd Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 2997
+        y: 4028
+        width: 999
+        height: 1388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb2a6b2c1638c2690800000000000000
+      internalID: -7625575613143276866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girljumpnew.psd Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 3996
+        y: 4028
+        width: 999
+        height: 1388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 419b80f1252c345e0800000000000000
+      internalID: -1926482557620668140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girljumpnew.psd Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 4995
+        y: 4028
+        width: 999
+        height: 1388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2184557638a2f1a0800000000000000
+      internalID: -6777169537389002454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girljumpnew.psd Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 5994
+        y: 4028
+        width: 999
+        height: 1388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ded5e1477b6ac2d00800000000000000
+      internalID: 949316928325705197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girljumpnew.psd Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 6993
+        y: 4028
+        width: 999
+        height: 1388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8e23e52e9b1e1840800000000000000
+      internalID: 5196621386086559373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girljumpnew.psd Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2640
+        width: 999
+        height: 1388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a87c92debdc3cdb0800000000000000
+      internalID: -4772744960621643608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girljumpnew.psd Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 2640
+        width: 999
+        height: 1388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c879de92da0c9a20800000000000000
+      internalID: 3070340945684297920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girljumpnew.psd Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 1998
+        y: 2640
+        width: 999
+        height: 1388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be8cbbc0fd1345ef0800000000000000
+      internalID: -120416455971059477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girljumpnew.psd Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 2997
+        y: 2640
+        width: 999
+        height: 1388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc845605451538aa0800000000000000
+      internalID: -6159990442744788785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
