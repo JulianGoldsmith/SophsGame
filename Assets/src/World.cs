@@ -202,7 +202,7 @@ public class MovingPlatform
     public GameObject platformObject;
     public Transform[] wayPoints;
     public float speed = 3;
-    public Vector3 smoothVelocity;
+
     public int targetIndex;
 }
 
